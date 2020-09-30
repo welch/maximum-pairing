@@ -19,13 +19,13 @@ You'll need the PuLP module to run this:
 (And of course numpy.)
 
 
-## demo.py
+## pairing_demo.py
 A demo using maximum_pairing() to match different pairs of club
 members week after week, with accumulating history and
 maximum diversity over time.
 
 ```
-> python demo.py
+> python pairing_demo.py
 
 ... lots of solver spew ....
 
